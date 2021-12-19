@@ -14,6 +14,7 @@ public class MaxElement {
                 maxInd = i ;
             }
         }
+        // return statement
         return maxInd;
     }
 }
